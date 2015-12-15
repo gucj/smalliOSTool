@@ -13,9 +13,6 @@ mac下iOS小工具，支持手机截图到电脑桌面，安装卸载ipa文件�
 * 关机
 * 重启
 
-#### 功能示例
-
-![MacDown Screenshot](use_des.png)
 ####如何使用
 下载目录下iostool.dmg,安装使用
 
