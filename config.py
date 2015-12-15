@@ -1,0 +1,11 @@
+# coding=utf-8
+__author__ = 'gucuijuan'
+INSTALL_ID = 101
+SCREENSHOT_ID = 102
+DEVICE_INFO_ID = 103
+UNINSTALL_ID = 104
+APP_LIST_ID = 105
+SLEEP_ID = 106
+SHUT_ID = 107
+REBOOT_ID = 108
+uninstall_list = ['com.elong.hotel', 'com.elong.app']  # 要卸载的app列表，可自由配置
