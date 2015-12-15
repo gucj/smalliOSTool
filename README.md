@@ -22,4 +22,4 @@ eg:
 	
 	uninstall_list = ['com.elong.hotel', 'com.elong.app']  # 要卸载的app列表，可自由配置
 
-重现打包
+重新打包
