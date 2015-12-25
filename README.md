@@ -20,6 +20,6 @@ mac下iOS小工具，支持手机截图到电脑桌面，安装卸载ipa文件�
 修改config.py,配置卸载app列表.
 eg:
 	
-	uninstall_list = ['com.elong.hotel', 'com.elong.app']  # 要卸载的app列表，可自由配置
+	uninstall_list = ['com.tencent.xin', 'com.zhihu.daily']  # 要卸载的app列表，可自由配置
 
 重新打包
