@@ -8,4 +8,4 @@ APP_LIST_ID = 105
 SLEEP_ID = 106
 SHUT_ID = 107
 REBOOT_ID = 108
-uninstall_list = ['com.elong.hotel', 'com.elong.app']  # 要卸载的app列表，可自由配置
+uninstall_list = ['com.tencent.xin', 'com.zhihu.daily']  # 要卸载的app列表，可自由配置
