@@ -13,6 +13,9 @@ mac下iOS小工具，支持手机截图到电脑桌面，安装卸载ipa文件�
 * 关机
 * 重启
 
+图示：
+ ![image](https://github.com/gucj/smalliOSTool/blob/master/iOSToolDetail.png)
+
 ####如何使用
 下载目录下iostool.dmg,安装使用
 
